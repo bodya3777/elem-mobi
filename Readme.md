@@ -24,7 +24,7 @@ This bot is designed for automatic gameplay, focusing on leveling up guilds and 
 ## Usage
 1. Configure the bot settings in `database/accounts.txt`.
 2. Fill this file following the example: `test_login:test_password`.
-3Run the bot:
+3. Run the bot:
     ```sh
     python main.py
     ```
