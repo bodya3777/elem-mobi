@@ -1,8 +1,6 @@
 from bot.bot import  Bot
 import time, schedule
 
-current_day = 19
-
 bots = []
 
 
